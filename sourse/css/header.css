@@ -1,0 +1,16 @@
+/*header */
+.wraper {
+  width: 100%;
+  background: #000;
+}
+
+.header {
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.logo img {
+  width: 150px;
+  margin: 20px 0;
+}
